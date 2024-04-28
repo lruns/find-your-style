@@ -1,0 +1,3 @@
+Фотографии были взяты из свободных источников:
+- https://ru.freepik.com/free-photo/full-portrait-of-smiling-happy-handsome-man-in-white-shorts-and-green-t-shirt-isolated-on-white_10731494.htm#page=3&query=%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D0%B0%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9%20%D1%80%D0%BE%D1%81%D1%82&position=42&from_view=keyword&track=ais&uuid=43de58c7-d854-4c98-87bd-75fa0b2aa94f
+- https://ru.freepik.com/free-photo/full-length-portrait-of-a-joyful-young-redhead-girl-celebrating-victory-or-success_6818230.htm#page=9&query=%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9%20%D1%80%D0%BE%D1%81%D1%82&position=5&from_view=keyword&track=ais&uuid=aedfead0-d0fa-4d67-8ae6-3795ae5b36a3

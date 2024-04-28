@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Примерка одежды</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Примерка одежды</h1>
+        <div class="image-container">
+            <img class="image" src="./images/man_model.jpg" alt="Модель человека">
+            <img class="image" src="./images/cloth.jpg" alt="Модель человека">
+            <img class="image" src="./images/woman_model.jpg" alt="Примерка одежды">
+        </div>
+        <div class="controls">
+            <select id="model">
+                <option value="">Выберите модель</option>
+                <option value="model1">Модель 1</option>
+                <option value="model2">Модель 2</option>
+                <option value="model3">Модель 3</option>
+                <option value="model4">Модель 4</option>
+            </select>
+            <!-- <input type="file" accept="image/*" id="upload-photo"> -->
+            <select id="cloth">
+                <option value="">Выберите одежду</option>
+                <option value="tshirt1">Футболка 1</option>
+                <option value="tshirt2">Футболка 2</option>
+                <option value="trousers1">Брюки 1</option>
+                <option value="trousers2">Брюки 2</option>
+            </select>
+            <button id="try-on">Примерить</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
